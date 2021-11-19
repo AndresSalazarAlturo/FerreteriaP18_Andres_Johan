@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.animation.Animation
 import android.view.animation.AnimationUtils
+import com.example.ferreteriap18_andres_johan.R
 import com.example.ferreteriap18_andres_johan.databinding.ActivitySplashScreenBinding
 
 

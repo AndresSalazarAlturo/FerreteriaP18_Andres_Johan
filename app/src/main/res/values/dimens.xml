@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardCornerRadius">5dp</dimen>
+    <dimen name="cardLayoutMargin">10dp</dimen>
+    <dimen name="cardElevation">1dp</dimen>
+    <dimen name="logoHeight">100dp</dimen>
+    <dimen name="defaultLayoutMargin">10dp</dimen>
+    <dimen name="textSizeContent">20sp</dimen>
+    <dimen name="ferreteria_tiendaHeight">197dp</dimen>
+</resources>
