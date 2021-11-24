@@ -6,5 +6,15 @@
     <dimen name="logoHeight">100dp</dimen>
     <dimen name="defaultLayoutMargin">10dp</dimen>
     <dimen name="textSizeContent">20sp</dimen>
-    <dimen name="ferreteria_tiendaHeight">197dp</dimen>
+    <dimen name="fotoTiendaHeight">300dp</dimen>
+    <dimen name="itemCommentsUser">25sp</dimen>
+    <dimen name="itemCommentsScore">20sp</dimen>
+    <dimen name="itemCommentsComment">25dp</dimen>
+    <dimen name="sizeTitleComments">25sp</dimen>
+    <dimen name="heightImageProduct">150dp</dimen>
+    <dimen name="sizeNameProduct">25dp</dimen>
+    <dimen name="sizePriceProduct">20sp</dimen>
+    <dimen name="textTitle">30sp</dimen>
+    <dimen name="textSizeAdmin">25sp</dimen>
+    <dimen name="ibHeight">100dp</dimen>
 </resources>
