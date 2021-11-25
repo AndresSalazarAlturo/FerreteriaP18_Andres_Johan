@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">TiendaDonEmilioP18</string>
+    <string name="app_name">FerreteriaP18_Andres_Johan</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="textHome">Tienda Don Emilio es una aplicación desarrollada como ejemplo para módulo 4b, del programa de formación llevado a cabo por la Universidad Nacional de Colombia. Esto en el marco del proyecto Misión TIC 2022.</string>
+    <string name="textHome">Ferreteria es una aplicacion desarrollada con el objetivo de dar herramientas tecnologicas a todo tipo de negocios y asi mantenerlos competitivos</string>
     <string name="textTitleComments">Mi comentario</string>
     <string name="hintcomment">Comentario</string>
     <string name="btSaveComment">Guardar Comentario</string>

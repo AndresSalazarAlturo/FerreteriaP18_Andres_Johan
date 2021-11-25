@@ -3,7 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/activity_splash_screen.xml" value="0.22282608695652173" />
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/comentarios.xml" value="0.25052083333333336" />
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/fragment_admin.xml" value="0.2128623188405797" />
@@ -12,12 +12,13 @@
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/fragment_comments.xml" value="0.21784420289855072" />
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/fragment_comments_detail_dialog.xml" value="0.25052083333333336" />
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/fragment_comments_dialog.xml" value="0.2128623188405797" />
-        <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/fragment_home.xml" value="0.264" />
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/fragment_order.xml" value="0.2128623188405797" />
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/fragment_order_detail_dialog.xml" value="0.25052083333333336" />
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/fragment_order_dialog.xml" value="0.264" />
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/iteam_comments.xml" value="0.2128623188405797" />
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/item_product.xml" value="0.264" />
+        <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/menu/bnv_menu.xml" value="0.25052083333333336" />
       </map>
     </option>
   </component>
