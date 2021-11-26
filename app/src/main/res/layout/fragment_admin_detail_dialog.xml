@@ -87,10 +87,10 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center_horizontal"
-                            android:background="@color/primaryDarkColor"
+                            android:layout_marginTop="@dimen/defaultLayoutMargin"
+                            android:background="@color/buttonBackground"
                             android:text="@string/btSaveAdmin"
-                            android:textColor="@color/primaryTextColor"
-                            android:layout_marginTop="@dimen/defaultLayoutMargin"/>
+                            android:textColor="@color/buttonTextColor" />
 
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>

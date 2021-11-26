@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/drawable/iconohome.xml" value="0.2703125" />
+        <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/drawable/iconousuario.xml" value="0.2703125" />
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/activity_splash_screen.xml" value="0.22282608695652173" />
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/comentarios.xml" value="0.25052083333333336" />
@@ -13,6 +15,7 @@
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/fragment_comments_detail_dialog.xml" value="0.25052083333333336" />
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/fragment_comments_dialog.xml" value="0.2128623188405797" />
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/fragment_login.xml" value="0.2513586956521739" />
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/fragment_order.xml" value="0.2128623188405797" />
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/fragment_order_detail_dialog.xml" value="0.25052083333333336" />
         <entry key="..\:/TIC/Programacion/Ciclo4/Proyectos/FerreteriaP18_Andres_Johan/app/src/main/res/layout/fragment_order_dialog.xml" value="0.264" />
