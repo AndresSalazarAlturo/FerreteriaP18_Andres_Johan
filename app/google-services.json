@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633009461036",
+    "project_id": "ferreteriap18andresjohan",
+    "storage_bucket": "ferreteriap18andresjohan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633009461036:android:4aeaba2f27871dc606be89",
+        "android_client_info": {
+          "package_name": "com.example.ferreteriap18_andres_johan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633009461036-9k76oili8tnfbqokunma1nv2v94fi17p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_XCaN6S21_or939J3vDNx7xmPlHSde38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633009461036-9k76oili8tnfbqokunma1nv2v94fi17p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
