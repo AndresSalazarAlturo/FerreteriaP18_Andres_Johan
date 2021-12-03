@@ -15,7 +15,7 @@ class LoginActivity : AppCompatActivity() {
     private lateinit var binding: ActivityLoginBinding
     val AUTH_REQUEST_CODE=1234
     lateinit var firebaseAuth: FirebaseAuth
-    lateinit var listener: FirebaseAuth.AuthStateListener
+    lateinit var listener:FirebaseAuth.AuthStateListener
     lateinit var providers: List<AuthUI.IdpConfig>
 
     override fun onStart() {
@@ -31,8 +31,8 @@ class LoginActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        binding = ActivityLoginBinding.inflate(layoutInflater)
-        val view = binding.root
+        binding= ActivityLoginBinding.inflate(layoutInflater)
+        val view= binding.root
         setContentView(view)
 
         providers= arrayListOf(
@@ -53,11 +53,9 @@ class LoginActivity : AppCompatActivity() {
                     .createSignInIntentBuilder()
                     .setAvailableProviders(providers)
                     .setLogo(R.drawable.logo_large)
-                    .setTheme(R.style.FullScreenDialogStyle)
+                    .setTheme(R.style.LoginTheme)
                     .build(),AUTH_REQUEST_CODE)
             }
         }
-
     }
-
 }

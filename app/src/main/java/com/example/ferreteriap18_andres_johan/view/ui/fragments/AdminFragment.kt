@@ -13,6 +13,7 @@ import android.widget.Toast
 import androidx.navigation.fragment.findNavController
 import com.example.ferreteriap18_andres_johan.R
 import com.example.ferreteriap18_andres_johan.databinding.FragmentAdminBinding
+import java.io.PrintStream
 
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -62,7 +63,6 @@ class AdminFragment : Fragment() {
         }
 
         //Paso 14. Configurar la actualizacion de valores
-
         val db : SQLiteDatabase = informacionDBHelper.readableDatabase
         val cursor = db.rawQuery("SELECT * FROM " + Tables.information.TABLE_NAME, null )
         if (cursor == null){

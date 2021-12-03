@@ -16,27 +16,26 @@ class SplashScreenActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivitySplashScreenBinding.inflate(layoutInflater)
-        val view = binding.root
+        val view= binding.root
         setContentView(view)
 
-        val animation = AnimationUtils.loadAnimation(this, R.anim.animation)
+
+        val animation = AnimationUtils.loadAnimation(this,R.anim.animation)
         binding.ivSplashScreen.startAnimation(animation)
-        val intent = Intent(this, MainActivity::class.java)
+        val intent = Intent(this, LoginActivity::class.java)
 
-        animation.setAnimationListener(object : Animation.AnimationListener{
-            override fun onAnimationStart(animation: Animation?) {
 
+        animation.setAnimationListener(object :Animation.AnimationListener{
+            override fun onAnimationStart(p0: Animation?) {
             }
 
-            override fun onAnimationEnd(animation: Animation?) {
+            override fun onAnimationEnd(p0: Animation?) {
                 startActivity(intent)
                 finish()
             }
 
-            override fun onAnimationRepeat(animation: Animation?) {
-
+            override fun onAnimationRepeat(p0: Animation?) {
             }
         })
-
     }
 }

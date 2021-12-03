@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primaryColor">#26c87e</color>
-    <color name="primaryLightColor">#69fcae</color>
-    <color name="primaryDarkColor">#009651</color>
+    <color name="primaryColor">#FFFF</color>
+    <color name="primaryLightColor">#FFFF</color>
+    <color name="primaryDarkColor">#000000</color>  <!-- Barra arriba-->
     <color name="secondaryColor">#43cbaa</color>
     <color name="secondaryLightColor">#7cffdc</color>
-    <color name="secondaryDarkColor">#00997b</color>
+    <color name="secondaryDarkColor">#000000</color> <!-- Letra boton-->
     <color name="primaryTextColor">#000000</color>
     <color name="secondaryTextColor">#000000</color>
-    <color name="buttonBackground">#000000</color>
-    <color name="buttonTextColor">#FFFF</color>
+    <color name="buttonBackground">#FFFF</color>
+    <color name="buttonTextColor">#000000</color>
 </resources>
+
+    <!--<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="primaryColor">#26c87e</color>
+<color name="primaryLightColor">#69fcae</color>
+<color name="primaryDarkColor">#009651</color>
+<color name="secondaryColor">#43cbaa</color>
+<color name="secondaryLightColor">#7cffdc</color>
+<color name="secondaryDarkColor">#00997b</color>
+<color name="primaryTextColor">#000000</color>
+<color name="secondaryTextColor">#000000</color>
+<color name="buttonBackground">#000000</color>
+<color name="buttonTextColor">#FFFF</color>
+</resources>-->
