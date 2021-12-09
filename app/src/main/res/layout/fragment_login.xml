@@ -26,7 +26,7 @@
                 android:layout_height="wrap_content"
                 android:text="@string/textTitleLogin"
                 android:textSize="@dimen/textTitle"
-                android:textColor="@color/primaryTextColor"
+                android:textColor="@color/loginTextColor"
                 android:gravity="center_horizontal"
                 android:layout_margin="@dimen/defaultLayoutMargin"
                 android:textStyle="bold"/>
@@ -45,7 +45,7 @@
                 android:layout_marginTop="@dimen/defaultLayoutMargin"
                 android:gravity="center_horizontal"
                 android:text="Usuario"
-                android:textColor="@color/primaryTextColor"
+                android:textColor="@color/loginTextColor"
                 android:textSize="@dimen/textSizeAdmin" />
 
             <TextView
@@ -55,7 +55,7 @@
                 android:layout_marginTop="@dimen/defaultLayoutMargin"
                 android:gravity="center_horizontal"
                 android:text="Contraseña"
-                android:textColor="@color/primaryTextColor"
+                android:textColor="@color/loginTextColor"
                 android:textSize="@dimen/textSizeAdmin" />
 
             <Button

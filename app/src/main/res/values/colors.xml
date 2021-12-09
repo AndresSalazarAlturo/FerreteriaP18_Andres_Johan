@@ -10,6 +10,7 @@
     <color name="secondaryTextColor">#000000</color>
     <color name="buttonBackground">#FFFF</color>
     <color name="buttonTextColor">#000000</color>
+    <color name="loginTextColor">#FFFF</color>
 </resources>
 
     <!--<?xml version="1.0" encoding="utf-8"?>
